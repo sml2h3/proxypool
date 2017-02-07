@@ -15,7 +15,8 @@ sudo pip install urlparse
 然后打开配置文件config.py
 ###api列表
 TARGET_CONFIG列表中支持多个api,如下
-```[
+```
+[
   'api1',
   'api2'
 ]
